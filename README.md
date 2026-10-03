@@ -1,4 +1,6 @@
-# ClinicFlow
+# ClinicFlow.   ## Live Demo
+
+https://clinic-flow-7tqy.vercel.app
 
 ClinicFlow is a small-clinic workflow MVP for appointments, patient contact coordination, doctor schedules and routine follow-ups. Its records are synthetic and its notes are for administrative coordination only.
 
